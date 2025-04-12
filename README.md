@@ -18,6 +18,8 @@ Welcome to my personal YouTube-themed portfolio website! This platform showcases
 - **Design Elements**: Animated UI, responsive layout, interactive sections
 - **Media**: Embedded YouTube videos, images, icons, and typewriter effects
 
+## Have a View 
+-** (https://abirkundu.github.io/YouTube-Channel-Website/)
 ## 🚀 How to Run
 
 1. Clone the repository:
