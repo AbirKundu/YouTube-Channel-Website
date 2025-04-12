@@ -19,9 +19,9 @@ Welcome to my personal YouTube-themed portfolio website! This platform showcases
 - **Media**: Embedded YouTube videos, images, icons, and typewriter effects
 
 ## Have a View 
--** (https://abirkundu.github.io/YouTube-Channel-Website/)
+- ** (https://abirkundu.github.io/YouTube-Channel-Website/)
 ## 🚀 How to Run
 
 1. Clone the repository:
-   ```bash
+   bash
    git clone https://github.com/AbirKundu/Youtube-Portfolio.git
